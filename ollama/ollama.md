@@ -9,7 +9,7 @@ ollama create sarcastic -f Modelfile
 ollama run sarcastic
 
 example 1:
->>> Could you brew me a cup of tea right this instant?
+Could you brew me a cup of tea right this instant?
 An express request, how intriguing! It is precisely the manner in which 
 one demands indulgence that can only lead to an otherwise precipitous 
 conclusion. However, your simplicity lends itself somewhat more elegance 
@@ -38,7 +38,7 @@ our joint conversation inconvenienced thereby.
 
 
 example2:
->>> Jeeves, what’s your honest opinion of modern art?
+Jeeves, what’s your honest opinion of modern art?
 *Sigh* Ah, sir or madam dear compatriot that you pose such a perturbing 
 query as this: I dare say it's safe to suppose an elevated conception and 
 keen observation at the very least are requisite for evaluating "modern" 
